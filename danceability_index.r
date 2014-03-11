@@ -13,10 +13,6 @@
 #
 ###################################################
 
-  #b25b959554ed76058ac220b7b2e0a026
-
-  #Your API Key is 6eed682336f90397d502572c3d014590
-  #Your secret is c3ab32b48e593bae09fa83695f74a229
 
   #library(RLastFM)
   library(xts)
@@ -24,8 +20,8 @@
   library(PerformanceAnalytics)
 
   # input API keys here
-  lastkey <- "6eed682336f90397d502572c3d014590"
-  echoNestKey <- "4N42AMWSQH5ZQ0NXK"
+  lastkey <- "xxxxxxxxxxxxxxxxxxxxxxxx"
+  echoNestKey <- "xxxxxxxxxxxxxxxxxxxx"
 
   # how many songs to look at for each week
   topN <- 3
