@@ -1,0 +1,33 @@
+                          Danceability Index
+Annualized Return                     0.4479
+Annualized Std Dev                    0.2224
+Annualized Sharpe (Rf=0%)             2.0136
+> 
+> table.AnnualizedReturns(scoreMA$"SPX Return")
+                          SPX Return
+Annualized Return             0.1658
+Annualized Std Dev            0.2278
+Annualized Sharpe (Rf=0%)     0.7277
+
+
+                Danceability Index
+Observations               83.0000
+NAs                         1.0000
+Minimum                    -0.0703
+Quartile 1                 -0.0080
+Median                      0.0078
+Arithmetic Mean             0.0076
+Geometric Mean              0.0071
+Quartile 3                  0.0248
+Maximum                     0.1071
+SE Mean                     0.0034
+LCL Mean (0.95)             0.0009
+UCL Mean (0.95)             0.0143
+Variance                    0.0010
+Stdev                       0.0308
+Skewness                    0.1081
+Kurtosis                    0.6610
+
+       Jan   Feb   Mar  Apr  May  Jun  Jul   Aug   Sep Oct  Nov  Dec Danceability Index
+2009    NA -7.03  3.26 1.30 2.28 2.45 0.84 -1.22 -1.84 3.2 1.33 1.01               5.23
+2010 -0.72  3.10 -0.99 2.51 2.25 5.03 1.82  3.75  0.46  NA   NA   NA              18.41
