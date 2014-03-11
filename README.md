@@ -1,15 +1,19 @@
 mhd-danceability-index
 ======================
 
-This was an R script used in the Boston [musichackday.org](Music Hackday) for a danceability market index for investing.  The idea was to create something similar to the [hemline index](http://en.wikipedia.org/wiki/Hemline_index) using the danceability rating of songs from Echo Nest.  
+This was an R script used in the Boston [Music Hackday](musichackday.org) for a danceability market index for investing.  The idea was to create something similar to the [hemline index](http://en.wikipedia.org/wiki/Hemline_index) using the danceability rating of songs from Echo Nest.  
 
 Musichackday is a weekend hackathon for music tech and the idea is to create something fun related to music.  This project was for fun, not real investing, and is obviously no longer profitable!
+
+2 Minute Presentation:
+
+[pdf file](2010-10 Danceability Index.pdf)
 
 For write-ups see:
 
 [Wired.com article]( http://goo.gl/iPvyZO)
 
-[evolver.fm post](http://goo.gl/MmqYEG)
+[Evolver.fm post](http://goo.gl/MmqYEG)
 
 The process:
 
