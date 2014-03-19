@@ -7,7 +7,7 @@ Musichackday is a weekend hackathon for music tech and the idea is to create som
 
 2 Minute Presentation:
 
-[pdf file](2010-10 Danceability Index.pdf)
+[pdf file](http://bit.ly/OCi3uB)
 
 For write-ups see:
 
